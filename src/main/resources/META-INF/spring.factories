@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.mob.mm3.manager.CacheManagerConfig,\
+com.mob.mm3.util.MM3CacheUtil\
